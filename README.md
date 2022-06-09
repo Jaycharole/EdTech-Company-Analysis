@@ -40,9 +40,9 @@ This dataset contains crimes reported in Baton Rouge city and investigated by th
    </td>
    <td align="center" width="96">
       <a href="#">
-        <a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://sybyl.com/wp-content/uploads/2019/11/Tableau-Logo-for-website.jpg" alt="Tableau" width="40" height="40"/>
+        <a href="https://www.python.org" target="_blank"> <img loading="lazy" src="https://static.wikia.nocookie.net/logopedia/images/8/8c/Kisspng-power-bi-business-intelligence-microsoft-azure-mic-office-365-d-nieuwe-cloud-omgeving-dynamics-on-5be7b365088c80.991032501541911397035.png/revision/latest/scale-to-width-down/1504?cb=20200213050332" alt="Tableau" width="40" height="40"/>
       </a>
-      <br>Tableau
+      <br>Power BI
     </td>
    <td align="center" width="96">
     <a href="#" target="_blank"> 
