@@ -8,7 +8,7 @@ You can interact with Live Project by clicking on the link
 
 [Live Project Preview](https://linktodocumentation) 
 
-[Project Video](https://linktodocumentation)
+[Project Video](https://youtu.be/R-VNhLwEgUY)
 
 [Project Demonstration](https://linktodocumentation)
 
@@ -67,7 +67,15 @@ The dataset is the combination of all this categories with their year of establi
   </tr>
 </table>
 
+## Working
 
+### Dashboard
+
+![EdTech Dashboard](https://user-images.githubusercontent.com/49811782/173003669-4082405a-107f-4280-9aa5-7958fb0ba0dd.gif)
+
+### Exploratory Data Analysis
+
+![EdTech EDA](https://user-images.githubusercontent.com/49811782/173003700-9cca72d1-736e-421a-a487-8dc483f11e5d.gif)
 
 ## 🚀 Feedback
 
