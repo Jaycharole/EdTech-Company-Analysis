@@ -6,11 +6,9 @@ Before going deep into the project this are some of the documentation which will
 
 You can interact with Live Project by clicking on the link 
 
-[Live Project Preview](https://linktodocumentation) 
+[Live Project Preview](https://app.powerbi.com/reportEmbed?reportId=ec315acc-7d7d-46bc-ab52-fee02ef4d976&autoAuth=true&ctid=b5dcae3e-19c6-484f-9600-62495beccb05&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLXdlc3QtdXMtZC1wcmltYXJ5LXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0LyJ9) 
 
 [Project Video](https://youtu.be/R-VNhLwEgUY)
-
-[Project Demonstration](https://linktodocumentation)
 
 [Project Report](https://github.com/Jaycharole/EdTech-Company-Analysis/blob/main/Documentation/EdTech%20Companies%20Report.pdf)
 
